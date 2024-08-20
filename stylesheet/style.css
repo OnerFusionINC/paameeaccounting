@@ -1,12 +1,12 @@
 /**
   * Name: iseo
   * Version: 1.0.1
-  * Author: Themesflat
-  * Author URI: http://www.themesflat.com
+  * Author: OnerFusion
+  * Author URI: http://www.onerfusion.com
 */
 @import url("owl.carousel.css");
 @import url("flexslider.css");
-@import url("font-awesome.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css");
 @import url("ionicons.css");
 @import url("shortcodes.css");
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
